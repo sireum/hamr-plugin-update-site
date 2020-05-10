@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="Sireum HAMR Update Site">
+      Sireum HAMR Update Site
+   </description>
+   <feature url="features/org.sireum.aadl.osate.hamr.feature_1.0.2005091911.202005091915.jar" id="org.sireum.aadl.osate.hamr.feature" version="1.0.2005091911.202005091915">
+      <category name="org.sireum.aadl.osate.category"/>
+   </feature>
+   <category-def name="org.sireum.aadl.osate.category" label="Sireum">
+      <description>
+         Sireum features
+      </description>
+   </category-def>
+</site>
