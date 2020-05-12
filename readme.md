@@ -25,6 +25,13 @@ Built against Sireum Kekinian Build 20200512.901430d - To install Kekinian see [
 
 The latest HAMR plugin is pre-installed in FM-IDE [releases](https://github.com/loonwerks/formal-methods-workbench/releases)
 
+#### Updating HAMR Plugin via Terminal
+
+cd to the directory containing the FMIDE executable and then copy/paste the following
+
+```
+(export UPDATE_SITE=https://raw.githubusercontent.com/sireum/hamr-plugin-update-site/master; export FEATURE_ID=org.sireum.aadl.osate.hamr.feature.feature.group; ./fmide -nosplash -console -consoleLog -application org.eclipse.equinox.p2.director -repository ${UPDATE_SITE} -installIU ${FEATURE_ID} -uninstallIU ${FEATURE_ID})
+```
 
 ## Usage
 1. Select a system implementation from the outline outline view.
