@@ -25,7 +25,7 @@ Built against Sireum Kekinian Build 20200512.901430d - To install Kekinian see [
 
 The latest HAMR plugin is pre-installed in FM-IDE [releases](https://github.com/loonwerks/formal-methods-workbench/releases)
 
-#### Updating HAMR Plugin via Terminal
+#### Updating HAMR Plugin via the Terminal
 
 cd to the directory containing the FMIDE executable and then copy/paste the following
 
