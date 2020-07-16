@@ -1,6 +1,6 @@
 # Github hosted Sireum HAMR Plugin Update Site
 
-Built against Sireum Kekinian Build 20200706.a0ae67f - To install Kekinian see [https://github.com/sireum/kekinian/tree/a0ae67f#installing](https://github.com/sireum/kekinian/tree/a0ae67f#installing)
+Built against Sireum Kekinian Build 20200715.805fdf8 - To install Kekinian see [https://github.com/sireum/kekinian/tree/805fdf8#installing](https://github.com/sireum/kekinian/tree/805fdf8#installing)
 
 ## Installation
 
