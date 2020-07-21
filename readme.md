@@ -33,9 +33,12 @@ cd to the directory containing the FMIDE executable and then copy/paste the foll
 (export UPDATE_SITE=https://raw.githubusercontent.com/sireum/hamr-plugin-update-site/master; export FEATURE_ID=org.sireum.aadl.osate.hamr.feature.feature.group; ./fmide -nosplash -console -consoleLog -application org.eclipse.equinox.p2.director -repository ${UPDATE_SITE} -installIU ${FEATURE_ID} -uninstallIU ${FEATURE_ID})
 ```
 
-### Updating Briefcase via the Terminal
+### Updating CASE Briefcase via the Terminal
 
-1. Install FMIDE as detailed in the previous step
+1. Install FMIDE 
+```
+$SIREUM_HOME/bin/install/fmide.cmd
+```
 
 2. Download the following Slash script: [update-briefcase.sc](resources/update-briefcase.sc)
 
