@@ -41,7 +41,7 @@ cd to the directory containing the FMIDE executable and then copy/paste the foll
    $SIREUM_HOME/bin/install/fmide.cmd
    ```
 
-2. Download the following Slash script: [update-briefcase.sc](resources/update-briefcase.sc)
+2. Download the following Slash script: [update-briefcase.sc](https://raw.githubusercontent.com/sireum/hamr-plugin-update-site/master/resources/update-briefcase.sc)
 
 3. Copy the URL of the zip file containing the version of Briefcase you want to install from [https://github.com/loonwerks/BriefCASE/releases](https://github.com/loonwerks/BriefCASE/releases).  
 
