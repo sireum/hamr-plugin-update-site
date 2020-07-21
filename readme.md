@@ -36,18 +36,20 @@ cd to the directory containing the FMIDE executable and then copy/paste the foll
 ### Updating CASE Briefcase via the Terminal
 
 1. Install FMIDE 
-```
-$SIREUM_HOME/bin/install/fmide.cmd
-```
+
+   ```
+   $SIREUM_HOME/bin/install/fmide.cmd
+   ```
 
 2. Download the following Slash script: [update-briefcase.sc](resources/update-briefcase.sc)
 
 3. Copy the URL of the zip file containing the version of Briefcase you want to install from [https://github.com/loonwerks/BriefCASE/releases](https://github.com/loonwerks/BriefCASE/releases).  
 
 4. Run the Slash script, passing it the URL from the previous step.  E.g.
-  ```
-  bash update-briefcase.sc https://github.com/loonwerks/BriefCASE/releases/download/untagged-8f13273c6647b8e964bd/com.collins.trustedsystems.briefcase.repository-0.2.2-SNAPSHOT.zip
-  ```
+
+   ```
+   bash update-briefcase.sc https://github.com/loonwerks/BriefCASE/releases/download/untagged-8f13273c6647b8e964bd/com.collins.trustedsystems.briefcase.repository-0.2.2-SNAPSHOT.zip
+   ```
 
 ## Usage
 1. Select a system implementation from the outline outline view.
