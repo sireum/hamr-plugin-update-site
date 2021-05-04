@@ -3,7 +3,7 @@
    <description name="Sireum HAMR Update Site">
       Sireum HAMR Update Site
    </description>
-   <feature url="features/org.sireum.aadl.osate.hamr.feature_1.0.2105031401.202105031416.jar" id="org.sireum.aadl.osate.hamr.feature" version="1.0.2105031401.202105031416">
+   <feature url="features/org.sireum.aadl.osate.hamr.feature_1.0.2105041755.202105041816.jar" id="org.sireum.aadl.osate.hamr.feature" version="1.0.2105041755.202105041816">
       <category name="org.sireum.aadl.osate.category"/>
    </feature>
    <category-def name="org.sireum.aadl.osate.category" label="Sireum">
