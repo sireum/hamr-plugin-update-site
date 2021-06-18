@@ -14,6 +14,8 @@ Built against Sireum Kekinian Build 4.20210615.0edac3a - To install Kekinian see
 
     https://raw.githubusercontent.com/sireum/hamr-plugin-update-site/CASE-Tool-Assessment-4/
    
+   \* NOTE: clicking on the above link in a web browser will result in a _400: Invalid Request_, which is expected
+   
 4. Uncheck the ``Group items by category`` checkbox
  
 5. Check the box for ``Sireum HAMR Plugin`` and click ``Finish``
